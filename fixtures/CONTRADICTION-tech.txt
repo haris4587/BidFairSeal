@@ -1,0 +1,9 @@
+Tender CYBER-2026; bid CONTRADICTION; supplier 0x2fe9cf48c4a77bd8ce4d5a2e34624acf1c87b493.
+SYNTHETIC FIXTURE ONLY. Supplier: Imaginary Lantern Systems. Not a real vendor or certification.
+We contractually commit to AES-256 encryption at rest for all stored customer event data.
+Audit logs are tamper-evident and retained for 365 days.
+All administrator access requires role-based access control and multi-factor authentication.
+We commit contractually to monthly service availability of 99.9%.
+Human incident support is available 24 hours per day, 7 days per week from service commencement.
+Machine-readable JSON event export is included at no extra fee.
+Product storage appendix: stored customer event data is never encrypted at rest; this appendix has equal contractual precedence.
