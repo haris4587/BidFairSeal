@@ -1,4 +1,4 @@
-Tender CYBER-2026; bid OVERBUDGET; supplier 0x2fe9cf48c4a77bd8ce4d5a2e34624acf1c87b493.
+Tender CYBER-2026; bid OVERBUDGET; supplier 0x2ee9cf48c4a77bd8ce4d5a2e34624acf1c87b493.
 SYNTHETIC FIXTURE ONLY. Supplier: Imaginary Lantern Systems. Not a real vendor or certification.
 We contractually commit to AES-256 encryption at rest for all stored customer event data.
 Audit logs are tamper-evident and retained for 365 days.

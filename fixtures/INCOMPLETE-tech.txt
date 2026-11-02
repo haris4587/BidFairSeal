@@ -1,4 +1,4 @@
-Tender CYBER-2026; bid INCOMPLETE; supplier 0x2fe9cf48c4a77bd8ce4d5a2e34624acf1c87b493.
+Tender CYBER-2026; bid INCOMPLETE; supplier 0x2ee9cf48c4a77bd8ce4d5a2e34624acf1c87b493.
 SYNTHETIC FIXTURE ONLY. Supplier: Imaginary Lantern Systems. Not a real vendor or certification.
 We contractually commit to AES-256 encryption at rest for all stored customer event data.
 All administrator access requires role-based access control and multi-factor authentication.
